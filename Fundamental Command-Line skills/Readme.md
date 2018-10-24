@@ -46,3 +46,5 @@ The keyboard is the standard input device while your screen is the standard outp
 - Less command can read compressed files in .gz where as more and cat can't.
 - head
 - tail
+
+## Commands to Process Text Streams
