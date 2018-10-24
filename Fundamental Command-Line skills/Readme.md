@@ -14,5 +14,6 @@ It's possible to configure more virtual terminals limited by those allowed for t
 
 Differences between regular and administrative users:
 
-Regular user: [victor@pc ~]$ 
+Regular user: [victor@pc ~]$
+
 Administrative user: [root@pc ~]#
