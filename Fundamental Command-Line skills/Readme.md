@@ -3,7 +3,7 @@
 
 ## How to view and change shells
 - To view the shells installed on your system run:
-  - cat /etc/shells
+  - `cat /etc/shells`
 - To know which one you are using run:
   - grep youruser /etc/passwd
 - To change your bash run
